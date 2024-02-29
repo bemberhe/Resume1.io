@@ -1,4 +1,5 @@
-# resum1.io
+# resume1.io
+ https://bemberhe.github.io/Resume1.io/index.html
 
 
-https://bemberhe.github.io/resum1.io/index.html
+
