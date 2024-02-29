@@ -1,7 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Algerian;
+    src: url(../font/ALGER.TTF); /* from C:\Windows\Fonts */
     margin: 0;
     padding: 0;
+    background-color: #f0f8ff;
 }
 
 header {
@@ -23,6 +25,7 @@ nav ul {
     padding: 20px;
     color: #000;
   }
+  
   section {
     margin-bottom: 20px;
 }
