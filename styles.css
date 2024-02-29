@@ -23,7 +23,7 @@ nav ul {
 
   main {
     padding: 20px;
-    color: #c319c3;
+    color: #000000;
   }
   
   section {
@@ -34,7 +34,7 @@ nav ul {
     width: 50%;
     padding-right: 10px;
     box-sizing: border-box;
-    color: #000000;
+   
 }
 section {
     margin-bottom: 20px;
@@ -47,6 +47,7 @@ section {
     box-sizing: border-box;
     border-left: 3px solid #b40fab;
     align-content: center;
+    color: #c319c3;
 }
 
 .skill-list {
