@@ -1,6 +1,6 @@
 body {
-    font-family: Algerian;
-    src: url(../font/ALGER.TTF); /* from C:\Windows\Fonts */
+    font-family: 'Times New Roman', Times, serif;
+    
     margin: 0;
     padding: 0;
     background-color: #f0f8ff;
